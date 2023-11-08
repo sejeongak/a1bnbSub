@@ -27,18 +27,20 @@ Object Detection, Classification, Image-to-text generation을 활용하여
     <td align="center"><a href="https://github.com/mcjeong95"><b>정민철</b></td>
   </tr>
   <tr> 
-    <td align="center">모델개발</td>
-    <td align="center">모델개발</td>
-    <td align="center">모델개발</td>
-    <td align="center">모델개발</td>
-    <td align="center">모델개발</td>
-    <td align="center">모델개발</td>
-    <td align="center">모델개발</td>
+    <td align="center">Backend<br>Frontend</td>
+    <td align="center">Object Detection<br>Backend</td>
+    <td align="center">Frontend<br>Backend</td>
+    <td align="center">Object Detection<br>Backend</td>
+    <td align="center">Text Generation<br>Backend</td>
+    <td align="center">Classification<br>Backend</td>
+    <td align="center">Classification<br>Backend</td>
   </tr>
 
 </table>
 
 ### 🎥 시연영상
+- [발표 영상 링크](https://youtu.be/zjDOIbcjrfk?si=pBQBoop-jWVjLgmH)
+ 
 - 회원가입 & 로그인
 ![무제_로그인까지](https://github.com/HDmoonSir/a1bnbSub/assets/15117257/1d2148d2-8859-4b8c-89fb-3ee98a55a78d)
 
